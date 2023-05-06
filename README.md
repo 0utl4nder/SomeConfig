@@ -1,5 +1,6 @@
 # 0utl4nder's Desktop Config [XFCE4]
-(Terminal / FontFamily / Wallpapers / gtkThemes)
+
+### (Terminal / FontFamily / Wallpapers / gtkThemes)
 ---
 
 | Name | Type | Download | Credits |
